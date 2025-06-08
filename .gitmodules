@@ -1,0 +1,3 @@
+[submodule "libs/Data-Structures"]
+	path = libs/Data-Structures
+	url = https://github.com/totoo7/Data-Structures.git
